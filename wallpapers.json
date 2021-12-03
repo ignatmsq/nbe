@@ -29,6 +29,7 @@
         "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/4/l3.png",
         "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/4/l4.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/4/f.ttf",
+        "font_color"  :4288897357,  
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/4/pw.png"
     }
 ]
