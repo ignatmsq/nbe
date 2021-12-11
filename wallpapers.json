@@ -5,6 +5,7 @@
         "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/1/l3.png",
         "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/1/l4.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/1/f.ttf",
+        "font_color"  :"#FFA3614D",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/1/pv.png"
     },
      {
@@ -13,6 +14,7 @@
         "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/2/l3.png",
         "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/2/l4.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/2/f.ttf",
+        "font_color"  :"#FFA3614D",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/2/pw.png"
     },
      {
@@ -21,6 +23,7 @@
         "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/3/l3.png",
         "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/3/l4.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/3/f.ttf",
+        "font_color"  :"#FFA3614D",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/3/pw.png"
     },
      {
@@ -29,7 +32,19 @@
         "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/4/l3.png",
         "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/4/l4.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/4/f.ttf",
-        "font_color"  :4288897357,  
+        "font_color"  :"#FFA3614D",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/4/pw.png"
+    }
+    ,
+     {
+    	"id": "5",
+        "layer1"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/5/l1.png",
+        "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/5/l2.png",
+        "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/5/l4.png",
+        "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/5/f.ttf",
+        "font_color"  :"#ffffffff",
+        "shadow_color"  :"#ffdedede",
+        "outline_color"  :"#ffa0a0a0",
+        "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/5/pw.png"
     }
 ]
