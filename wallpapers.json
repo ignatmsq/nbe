@@ -5,7 +5,7 @@
         "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/1/l3.png",
         "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/1/l4.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/1/f.ttf",
-        "font_color"  :"#FFA3614D",
+        "font_color"  :"#FFFFFFFF",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/1/pv.png"
     },
      {
@@ -14,7 +14,7 @@
         "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/2/l3.png",
         "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/2/l4.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/2/f.ttf",
-        "font_color"  :"#FFA3614D",
+        "font_color"  :"#FFFFFFFF",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/2/pw.png"
     },
      {
@@ -23,7 +23,7 @@
         "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/3/l3.png",
         "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/3/l4.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/3/f.ttf",
-        "font_color"  :"#FFA3614D",
+        "font_color"  :"#FFFFFFFF",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/3/pw.png"
     },
      {
