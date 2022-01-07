@@ -2,8 +2,8 @@
     {
     	"id": "1",
         "layer1"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/l1.png",
-        "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/l3.png",
-        "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/l4.png",
+        "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/l2.png",
+        "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/l3.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/f.ttf",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/pv.png",
         "font_color"  :"#ffffffff",
@@ -13,8 +13,8 @@
      {
     	"id": "2",
         "layer1"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/02/l1.png",
-        "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/02/l3.png",
-        "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/02/l4.png",
+        "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/02/l2.png",
+        "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/02/l3.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/02/f.ttf",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/02/pv.png",
         "font_color"  :"#ffe5f8fa",
@@ -24,8 +24,8 @@
      {
     	"id": "3",
         "layer1"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/03/l1.png",
-        "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/03/l3.png",
-        "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/03/l4.png",
+        "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/03/l2.png",
+        "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/03/l3.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/03/f.ttf",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/03/pv.png",
         "font_color"  :"#ffe5f8fa",
@@ -36,8 +36,8 @@
      {
     	"id": "4",
         "layer1"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/04/l1.png",
-        "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/04/l3.png",
-        "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/04/l4.png",
+        "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/04/l2.png",
+        "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/04/l3.png",
         "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/04/f.ttf",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/04/pv.png",
         "font_color"  :"#fffcecc5",
