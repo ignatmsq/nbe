@@ -70,6 +70,7 @@
         "v4": 13,
         "outline":-0.15,
         "shadow":-0.10,
-        "text_size":0.7 
+        "text_size":0.7,
+        "new":true 
     }
 ]
