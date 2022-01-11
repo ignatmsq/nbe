@@ -8,7 +8,14 @@
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/pv.png",
         "font_color"  :"#ffffffff",
         "shadow_color"  :"#fff393ce",
-        "outline_color"  :"#ffc74cb4"
+        "outline_color"  :"#ffc74cb4",
+        "v1": 0,
+        "v2": 20,
+        "v3": 9,
+        "v4": 8,
+        "outline":-0.1,
+        "shadow":-0.05,
+        "text_size":0.65
     },
      {
     	"id": "2",
@@ -19,7 +26,14 @@
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/02/pv.png",
         "font_color"  :"#ffe5f8fa",
         "shadow_color"  :"#ff008cb5",
-        "outline_color"  :"#ff002264"
+        "outline_color"  :"#ff002264",
+        "v1": 0,
+        "v2": 20,
+        "v3": 9,
+        "v4": 8,
+        "outline":-0.1,
+        "shadow":-0.05,
+        "text_size":0.65
     },  
      {
     	"id": "3",
@@ -30,7 +44,14 @@
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/03/pv.png",
         "font_color"  :"#ffe5f8fa",
         "shadow_color"  :"#ffa9dcea",
-        "outline_color"  :"#ffa9dcea"
+        "outline_color"  :"#ffa9dcea",
+        "v1": 0,
+        "v2": 11,
+        "v3": 15,
+        "v4": 15,
+        "outline":-0.05,
+        "shadow":-0.10,
+        "text_size":0.75
     },
     
      {
@@ -42,6 +63,13 @@
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/04/pv.png",
         "font_color"  :"#fffcecc5",
         "shadow_color"  :"#ffebbf9f",
-        "outline_color"  :"#ffcf876b"
+        "outline_color"  :"#ffcf876b",
+        "v1": 0,
+        "v2": 12,
+        "v3": 8,
+        "v4": 13,
+        "outline":-0.15,
+        "shadow":-0.10,
+        "text_size":0.7 
     }
 ]
