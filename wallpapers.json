@@ -70,8 +70,7 @@
         "v4": 13,
         "outline":-0.15,
         "shadow":-0.10,
-        "text_size":0.7,
-        "new":true 
+        "text_size":0.7
     },
     {
     	"id": "05",
@@ -89,6 +88,7 @@
         "v4": 8,
         "outline":-0.1,
         "shadow":-0.05,
-        "text_size":0.65
+        "text_size":0.65,
+        "new":true 
     }
 ]
