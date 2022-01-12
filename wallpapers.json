@@ -72,5 +72,23 @@
         "shadow":-0.10,
         "text_size":0.7,
         "new":true 
+    },
+    {
+    	"id": "05",
+        "layer1"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/l1.png",
+        "layer3"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/l2.png",
+        "layer4"      :"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/l3.png",
+        "font"        :"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/f.ttf",
+        "path_preview":"https://raw.githubusercontent.com/ignatmsq/nbe/main/01/pv.png",
+        "font_color"  :"#ffffffff",
+        "shadow_color"  :"#fff393ce",
+        "outline_color"  :"#ffc74cb4",
+        "v1": 0,
+        "v2": 20,
+        "v3": 9,
+        "v4": 8,
+        "outline":-0.1,
+        "shadow":-0.05,
+        "text_size":0.65
     }
 ]
