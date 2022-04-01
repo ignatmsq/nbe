@@ -240,6 +240,7 @@
         "layer3"      :"https://mynamewallpapers3d.com/serverv2/08/l2.png",
         "layer4"      :"https://mynamewallpapers3d.com/serverv2/08/l3.png",
         "font"        :"https://mynamewallpapers3d.com/serverv2/08/f.ttf",
+                    "font_id"      : "05_Handwritten",
         "path_preview":"https://mynamewallpapers3d.com/serverv2/08/pv.png",
         "font_color"  :"#2e76b3",
         "shadow_color"  :"#093b69",
@@ -259,6 +260,7 @@
         "layer3"      :"https://mynamewallpapers3d.com/serverv2/14/l2.png",
         "layer4"      :"https://mynamewallpapers3d.com/serverv2/14/l3.png",
         "font"        :"https://mynamewallpapers3d.com/serverv2/14/f.ttf",
+                    "font_id"      : "01_Minimalist",
         "path_preview":"https://mynamewallpapers3d.com/serverv2/14/pv.png",
         "font_color"  :"#0ac3fc",
         "shadow_color"  :"#0b44b7",
@@ -278,6 +280,7 @@
         "layer3"      :"https://mynamewallpapers3d.com/serverv2/09/l2.png",
         "layer4"      :"https://mynamewallpapers3d.com/serverv2/09/l3.png",
         "font"        :"https://mynamewallpapers3d.com/serverv2/09/f.ttf",
+                    "font_id"      : "04_Sans_Serif",
         "path_preview":"https://mynamewallpapers3d.com/serverv2/09/pv.png",
         "font_color"  :"#38a0c9",
         "shadow_color"  :"#0062a2",
@@ -297,6 +300,9 @@
         "layer3"      :"https://mynamewallpapers3d.com/serverv2/10/l2.png",
         "layer4"      :"https://mynamewallpapers3d.com/serverv2/10/l3.png",
         "font"        :"https://mynamewallpapers3d.com/serverv2/10/f.ttf",
+        
+                    "font_id"      : "08_Decorative",
+        
         "path_preview":"https://mynamewallpapers3d.com/serverv2/10/pv.png",
         "font_color"  :"#d0479b",
         "shadow_color"  :"#72324c",
@@ -316,6 +322,9 @@
         "layer3"      :"https://mynamewallpapers3d.com/serverv2/17/l2.png",
         "layer4"      :"https://mynamewallpapers3d.com/serverv2/17/l3.png",
         "font"        :"https://mynamewallpapers3d.com/serverv2/17/f.ttf",
+        
+                    "font_id"      : "06_Graffiti",
+        
         "path_preview":"https://mynamewallpapers3d.com/serverv2/17/pv.png",
         "font_color"  :"#e9f3ff",
         "shadow_color"  :"#1151ad",
@@ -335,6 +344,9 @@
         "layer3"      :"https://mynamewallpapers3d.com/serverv2/18/l2.png",
         "layer4"      :"https://mynamewallpapers3d.com/serverv2/18/l3.png",
         "font"        :"https://mynamewallpapers3d.com/serverv2/18/f.ttf",
+        
+                    "font_id"      : "08_Decorative",
+        
         "path_preview":"https://mynamewallpapers3d.com/serverv2/18/pv.png",
         "font_color"  :"#fff6ce",
         "shadow_color"  :"#f5992c",
@@ -354,6 +366,9 @@
         "layer3"      :"https://mynamewallpapers3d.com/serverv2/19/l2.png",
         "layer4"      :"https://mynamewallpapers3d.com/serverv2/19/l3.png",
         "font"        :"https://mynamewallpapers3d.com/serverv2/19/f.ttf",
+        
+                    "font_id"      : "06_Graffiti",
+        
         "path_preview":"https://mynamewallpapers3d.com/serverv2/19/pv.png",
         "font_color"  :"#ffba5e",
         "shadow_color"  :"#9c4b00",
@@ -373,6 +388,9 @@
         "layer3"      :"https://mynamewallpapers3d.com/serverv2/20/l2.png",
         "layer4"      :"https://mynamewallpapers3d.com/serverv2/20/l3.png",
         "font"        :"https://mynamewallpapers3d.com/serverv2/20/f.ttf",
+        
+                    "font_id"      : "06_Graffiti",
+        
         "path_preview":"https://mynamewallpapers3d.com/serverv2/20/pv.png",
         "font_color"  :"#e7cb5c",
         "shadow_color"  :"#935c05",
