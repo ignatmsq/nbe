@@ -1,0 +1,115 @@
+[{
+  "id":"r01",
+  "scene": {
+    "preview": {
+      "dirPath":"https://raw.githubusercontent.com/ignatmsq/nbe/main/box1",
+      "fileName":"p.png"
+    },
+    "boxLayer": {
+      "top": {
+        "p1": {
+          "anchor":"top",
+          "argb":"0xFF60B6F3"
+        },
+        "p2": {
+          "anchor":"bottom",
+          "argb":"0xFF3690CE"
+        }
+      },
+      "left": {
+        "p1": {
+          "anchor":"TopRight",
+          "argb":"#0xFF115D93"
+        },
+        "p2": {
+          "anchor":"BottomLeft",
+          "argb":"#0xFF0B77B8"
+        }
+      },
+      "bottom": {
+        "p1": {
+          "anchor":"top",
+          "argb":"#0xFF0C4D7B"
+        },
+        "p2": {
+          "anchor":"bottom",
+          "argb":"#0xFF1069A8"
+        }
+      },
+      "right": {
+        "p1": {
+          "anchor":"TopLeft",
+          "argb":"#0xFF115D93"
+        },
+        "p2": {
+          "anchor":"BottomRight",
+          "argb":"#0xFF0B77B8"
+        }
+      },
+      "base": {
+        "p1": {
+          "anchor":"top",
+          "argb":"#0xFF267EBD"
+        },
+        "p2": {
+          "anchor":"bottom",
+          "argb":"#0xFF1695D9"
+        }
+      },
+      "gradient": {
+        "p1": {
+          "anchor":"top",
+          "argb":"#401B479C"
+        },
+        "p2": {
+          "anchor":"bottom",
+          "argb":"#990B378C"
+        }
+      }
+    },
+    "textLayer": {
+      "font_id": "00_Minimalist",
+      "color":["#FFFFFFFF", "#FFFFA6A6", "#FFEC698B", "#FFEA3E6B", "#FFC0385C"]
+    },
+    "bmpLayers": [
+      {
+        "path": {
+          "dirPath":"https://raw.githubusercontent.com/ignatmsq/nbe/main/box1",
+          "fileName":"l1-v-shadow.png"
+        },
+        "depth":1.0
+      },
+      {
+        "path": {
+          "dirPath":"https://raw.githubusercontent.com/ignatmsq/nbe/main/box1",
+          "fileName":"l1-v.png"
+        },
+        "depth":0.9
+      },
+      {
+        "path": {
+          "dirPath":"https://raw.githubusercontent.com/ignatmsq/nbe/main/box1",
+          "fileName":"l2-v.png"
+        },
+        "depth":0.5
+      },
+      {
+        "path": {
+          "dirPath":"https://raw.githubusercontent.com/ignatmsq/nbe/main/box1",
+          "fileName":"l3-v.png"
+        },
+        "depth":0.1
+      }
+    ],
+    "animationLayers": [
+      {
+        "path": {
+          "dirPath":"https://raw.githubusercontent.com/ignatmsq/nbe/main/box1",
+          "fileName":"l2.json"
+        },
+        "depth": -0.1
+      }
+    ]
+  },
+  "new":false
+}]
