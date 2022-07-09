@@ -189,7 +189,7 @@
             }
          },
          "textLayer":{
-            "font_id":"00_Minimalist",
+            "font_id":"02_Rounded",
             "color":[
                "#F32927",
                "#FF5A5A",
@@ -302,7 +302,7 @@
             }
          },
          "textLayer":{
-            "font_id":"00_Minimalist",
+            "font_id":"02_Rounded",
             "color":[
                "#FFFFFF",
                "#FFC6C6",
@@ -418,7 +418,7 @@
             }
          },
          "textLayer":{
-            "font_id":"00_Minimalist",
+            "font_id":"02_Rounded",
             "color":[
                "#F67478",
                "#C3767E",
