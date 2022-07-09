@@ -420,11 +420,11 @@
          "textLayer":{
             "font_id":"00_Minimalist",
             "color":[
-               "#FFFFFF",
-               "#FFC6C6",
-               "#FF848A",
-               "#FF3C3C",
-               "#FF1515"
+               "#F67478",
+               "#C3767E",
+               "#907784",
+               "#5D7989",
+               "#5D7989"
             ]
          },
          "bmpLayers":[
